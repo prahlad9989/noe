@@ -1,12 +1,4 @@
-{
- "name": "node",
- "version": "1.0.0",
- "description": "hi",
- "main": "app.js",
- "publishConfig": {
-   "registry": "http://15.206.205.44:8081/repository/noderepo/"
-   } 
- },
+
 {
   "name": "node-js-sample",
   "version": "0.2.0",
